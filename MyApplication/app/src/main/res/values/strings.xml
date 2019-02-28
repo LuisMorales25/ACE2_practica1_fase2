@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="title_activity_sub_co">Sub_co</string>
+    <string name="title_activity_sub_co2">Sub_co2</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
